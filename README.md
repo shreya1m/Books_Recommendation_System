@@ -15,26 +15,37 @@ Ratings: Contains user ratings for books, ranging from 1 to 10.
 ## Libraries Used:
 
 Pandas: Data manipulation and aggregation
+
 NumPy: Efficient numerical operations
+
 Matplotlib and Seaborn: Data visualization
+
 SciPy: Statistical analysis and hypothesis testing
 
 ## Key Steps:
 
 Data Preprocessing: Handling missing values, removing duplicates, and merging datasets.
+
 Exploratory Data Analysis: Analyzing user behavior, book attributes, and identifying patterns.
+
 Collaborative Filtering: Building a recommendation system based on user ratings and book attributes.
+
 Hypothesis Testing: Evaluating hypotheses related to user behavior, book ratings, and publication years.
 
 ## Usage:
 
 Clone the repository to your local machine.
+
 Install the required libraries using pip install -r requirements.txt.
+
 Run the main script to execute the recommendation system and hypothesis testing.
+
 View the generated plots and analysis results for insights.
 
 ## Future Enhancements:
 
 Incorporate content-based filtering to enhance recommendation accuracy.
+
 Implement a user interface for interactive book recommendations.
+
 Explore deep learning models for personalized recommendations.
